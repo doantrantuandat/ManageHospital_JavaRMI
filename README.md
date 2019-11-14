@@ -6,3 +6,4 @@ This is a medical management application at 1 clinic including the basic functio
   Receiving patients --> medical examination and prescription --> buy medicine.
 Example: 
 !D:\2018 - 2019\PhatTrienUngDung\BaoCaoCuoiCung_DoanTranTuanDat_NgoTuanKiet\ImagesGui
+![Alt text](D:\2018 - 2019\PhatTrienUngDung\BaoCaoCuoiCung_DoanTranTuanDat_NgoTuanKiet\ImagesGui "Optional title")
